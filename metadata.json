@@ -1,0 +1,6 @@
+{
+  "name": "Fly AI",
+  "description": "Sua ideia. Nossa inteligência. Plataforma de inteligência artificial moderna, rápida e agradável de usar com modos Rápido e Pro, visão, geração de imagem e voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
